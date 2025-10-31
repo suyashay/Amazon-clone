@@ -14,8 +14,6 @@ The Amazon Clone project is a static web page that mimics the main interface of 
 - A **shop section** displaying product categories  
 - A **footer section** with multiple informational panels  
 
-This project focuses on **front-end structure, styling, and layout organization**, ideal for beginners exploring web design principles.
-
 ---
 
 ## 🧩 Technologies Used
